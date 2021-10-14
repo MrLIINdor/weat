@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weat</string>
+
+    <string name="city">Выберете город</string>
+    <string name="city_name">Введите город</string>
+
+    <string name="learn">Узнать погоду</string>
+
+    <string name="state_code">Код страны</string>
+    <string name="urban_name">Город</string>
+    <string name="data_typ">info</string>
+
+    <string name="humidity">Влажность</string>
+    <string name="speed">Скорость</string>
+    <string name="deg">Направление</string>
+    <string name="timezon">Временная зона</string>
+</resources>
